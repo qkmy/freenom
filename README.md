@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1>Freenom：freenom域名自动续期</h1>
 test
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
@@ -7,7 +7,6 @@ test
 [![MIT License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](https://github.com/luolongfei/freenom/blob/master/LICENSE)
 
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/master/README_EN.md) | 中文版
-</div>
 
 [📃  前言](#--前言)
 
